@@ -3,7 +3,7 @@
 A simple RESTful API built using **Flask** that allows users to manage a collection of books.
 This API supports basic CRUD operations including viewing all books, retrieving a single book, adding a new book, updating existing book data, and deleting a book.
 
-This project is created as part of **Assignment 3** and **Assignment 4 - Authentication and Authorization**.
+This project is created as part of **Assignment 3** and **Assignment 4**.
 
 ***
 
